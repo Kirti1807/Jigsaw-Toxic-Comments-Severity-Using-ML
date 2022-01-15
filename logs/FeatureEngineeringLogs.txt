@@ -1,0 +1,5 @@
+2022-01-15/15:20:45		In get_word_embeddings_for_training_data
+2022-01-15/15:21:32		In averaged_word2vec_vectorizer
+2022-01-15/15:21:49		Completed: averaged_word2vec_vectorizer
+2022-01-15/15:22:14		Completed get_word_embeddings_for_training_data
+2022-01-15/17:51:03		In load_word_embeddings

@@ -1,0 +1,9 @@
+2022-01-15/17:48:22		Entered the main method of the script
+2022-01-15/17:48:22		DataIngestion Successful
+2022-01-15/17:48:55		Entered the main method of the script
+2022-01-15/17:49:03		DataIngestion Successful
+2022-01-15/17:49:05		EDA Started
+2022-01-15/17:49:16		EDA Successful
+2022-01-15/17:49:18		DataProcessing Started
+2022-01-15/17:50:55		DataProcessing Successful
+2022-01-15/17:50:58		Loading the data

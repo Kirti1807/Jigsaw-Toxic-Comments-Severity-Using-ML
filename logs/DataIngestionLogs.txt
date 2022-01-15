@@ -1,0 +1,28 @@
+2022-01-14/01:41:11		In load_different_data method in DataUtils Class  : Loading Jigsaw, C3 and ruddit data
+2022-01-14/01:41:11		In load_different_data method in DataUtils Class  : Error loading data: [Errno 2] No such file or directory: 'E:\\QnAMedical\\Jigsaw Text Comment Severity\\dataset\\train_data.csv\\train_data.csv'
+2022-01-14/01:41:58		In load_different_data method in DataUtils Class  : Loading Jigsaw, C3 and ruddit data
+2022-01-14/01:41:59		Data loaded successfully
+2022-01-14/01:41:59		In prepare_data method in DataUtils Class :Preparing data for Further processing
+2022-01-14/01:41:59		In load_different_data method in DataUtils Class  : Loading Jigsaw, C3 and ruddit data
+2022-01-14/01:41:59		Data loaded successfully
+2022-01-14/01:41:59		In prepare_data method in DataUtils Class : Data prepared successfully
+2022-01-14/01:41:59		In concatenate_dfs method in DataUtils Class : Concatenating dataframes
+2022-01-14/01:41:59		In concatenate_dfs method in DataUtils Class : concatenated successfully
+2022-01-15/15:20:45		In prepare_data method in DataUtils Class :Preparing data for Further processing
+2022-01-15/15:20:45		In load_different_data method in DataUtils Class  : Loading Jigsaw, C3 and ruddit data
+2022-01-15/15:20:45		Data loaded successfully
+2022-01-15/15:20:45		In prepare_data method in DataUtils Class : Data prepared successfully
+2022-01-15/15:20:45		In concatenate_dfs method in DataUtils Class : Concatenating dataframes
+2022-01-15/15:20:45		In concatenate_dfs method in DataUtils Class : concatenated successfully
+2022-01-15/17:48:22		In prepare_data method in DataUtils Class :Preparing data for Further processing
+2022-01-15/17:48:22		In load_different_data method in DataUtils Class  : Loading Jigsaw, C3 and ruddit data
+2022-01-15/17:48:22		Data loaded successfully
+2022-01-15/17:48:22		In prepare_data method in DataUtils Class : Data prepared successfully
+2022-01-15/17:48:22		In concatenate_dfs method in DataUtils Class : Concatenating dataframes
+2022-01-15/17:48:22		In concatenate_dfs method in DataUtils Class : concatenated successfully
+2022-01-15/17:49:01		In prepare_data method in DataUtils Class :Preparing data for Further processing
+2022-01-15/17:49:01		In load_different_data method in DataUtils Class  : Loading Jigsaw, C3 and ruddit data
+2022-01-15/17:49:01		Data loaded successfully
+2022-01-15/17:49:01		In prepare_data method in DataUtils Class : Data prepared successfully
+2022-01-15/17:49:02		In concatenate_dfs method in DataUtils Class : Concatenating dataframes
+2022-01-15/17:49:02		In concatenate_dfs method in DataUtils Class : concatenated successfully
